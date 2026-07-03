@@ -33,6 +33,6 @@ I am a 17-year-old developer with over **1 year of dedicated learning and hands-
 
 If you are looking for a dedicated developer to join your project, build systems, or optimize code, feel free to reach out!
 
-* **Discord:** `YOUR_DISCORD_USERNAME`
+* **Discord:** `montamelavanxd`
 * **Roblox Profile:** [Monta](https://www.roblox.com/users/1276395888/profile)
 * **GitHub:** [Monta-0](https://github.com/Monta-0)
