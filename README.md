@@ -1,7 +1,7 @@
 # Monta.github.io
 # Hi, I'm Jonathan | Backend & Systems Developer 🚀
 
-Welcome to my technical portfolio. I specialize in backend logic, core computer science algorithms, and game systems architecture using **Python** and **Luau**. 
+I am a 17-year-old developer looking to gain professional experience and collaborate on challenging projects. I specialize in backend logic, core computer science algorithms, and game systems architecture using **Python** and **Luau**. 
 
 ---
 
@@ -31,4 +31,9 @@ Welcome to my technical portfolio. I specialize in backend logic, core computer 
 ---
 
 ## 📬 Connect with Me
+
+If you are looking for a dedicated developer to join your project, build systems, or optimize code, feel free to reach out!
+
+* **Discord:** `montamelavanxd` 
+* **Roblox Profile:** [Your Roblox Name](https://www.roblox.com/users/1276395888/profile) 
 * **GitHub:** [Monta-0](https://github.com/Monta-0)
