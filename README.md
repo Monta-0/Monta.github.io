@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan | Backend & Systems Developer
 
-I am a 17 year-old developer with over **1 year of dedicated learning and hands-on coding experience**. I am currently looking to gain professional experience and collaborate on challenging projects. I specialize in backend logic, core computer science algorithms, and game systems architecture using **Python** and **Luau**. 
+I am a 17 year old developer with over **1 year of dedicated learning and hands-on coding experience**. I am currently looking to gain professional experience and collaborate on challenging projects. I specialize in backend logic, core computer science algorithms, and game systems architecture using **Python** and **Luau**. 
 
 ---
 
