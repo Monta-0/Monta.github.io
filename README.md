@@ -1,7 +1,6 @@
-# Monta.github.io
 # Hi, I'm Jonathan | Backend & Systems Developer 
 
-I am a 17-year-old developer looking to gain professional experience and collaborate on challenging projects. I specialize in backend logic, core computer science algorithms, and game systems architecture using **Python** and **Luau**. 
+I am a 17 year old developer looking to gain professional experience and collaborate on challenging projects. I specialize in backend logic, core computer science algorithms, and game systems architecture using **Python** and **Luau**. 
 
 ---
 
