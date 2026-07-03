@@ -25,7 +25,7 @@ I am a 17 year old developer with over **1 year of dedicated learning and hands-
 
 ### Featured Luau & Python Scripts
 * **[Luau] Custom Datastore Wrapper** *(Coming Soon)* — A modular script featuring auto-retries and session locking to prevent data loss.
-* **[Python] Algorithmic Data Parser** *(Coming Soon)* — An optimized script demonstrating algorithmic sorting and filtering of data models.
+* **[Python] Algorithmic Data Parser**  — An optimized script demonstrating algorithmic sorting and filtering of data models.
 
 ---
 
